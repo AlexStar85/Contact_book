@@ -156,6 +156,10 @@ def Interface():
             case '3':
                     search_contacts()
             case '4':
+                    edit_contact()
+            case '5':
+                delete_contact()
+            case '6':
                 print('До свидания')
         print()
 
